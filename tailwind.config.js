@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary:" #ffcf3a",
+        primary: " #ffcf3a",
         secondary: "#0063ff"
       },
       container: true,
@@ -16,7 +16,7 @@ export default {
         sm: "2rem",
         lg: "4rem",
         xl: "5rem",
-        "2xl" : "6rem",
+        "2xl": "6rem",
       }
     },
   },
